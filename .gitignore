@@ -1,0 +1,4 @@
+python3/python/memory.json
+__pycache__/
+*.pyc
+.env
